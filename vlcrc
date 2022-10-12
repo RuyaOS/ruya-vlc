@@ -1,0 +1,5 @@
+[qt] # Qt interface
+
+# Allow automatic icon changes (boolean)
+qt-icon-change=0
+
